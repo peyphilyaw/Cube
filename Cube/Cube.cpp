@@ -11,7 +11,7 @@ using namespace std;
 
 // Named constants
 
-int main() //comment
+int main() 
 {
 
 	// Variable declaration
@@ -39,24 +39,6 @@ int main() //comment
 	cin >> units;
 
 	// Calculations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 	// Output to the screen
 
